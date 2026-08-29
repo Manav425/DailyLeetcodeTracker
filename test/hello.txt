@@ -1,1 +1,1 @@
-Hello from my LeetCode automation!
+Hello this is my first msg from Leetcode Automation
