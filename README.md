@@ -26,33 +26,6 @@ The automation works as follows:
 
 This removes the need to manually upload or commit each solution.
 
-## Repository Structure
-
-Each problem is organized into its own folder using the problem number and title.
-
-DailyLeetcodeTracker/
-|
-├── 001-two-sum/
-|   └── Solution.java
-|
-├── 015-3sum/
-|   └── Solution.java
-|
-├── 122-best-time-to-buy-and-sell-stock-ii/
-|   └── Solution.java
-|
-└── ...
-
-## Problems Solved
-
-Solutions are added automatically as I solve and submit problems on LeetCode.
-
-| Problem | Title | Difficulty | Language |
-|--------:|-------|------------|----------|
-| 001 | Two Sum | Easy | Java |
-| 015 | 3Sum | Medium | Java |
-| ... | ... | ... | ... |
-
 ## Topics
 
 The repository covers problems across various Data Structures and Algorithms topics, including:
