@@ -69,3 +69,19 @@ https://leetcode.com/u/Manav425/
 ## Author
 
 Manav Batra
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Manav425/DailyLeetcodeTracker/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Manav425/DailyLeetcodeTracker/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Manav425/DailyLeetcodeTracker/tree/master/0011-container-with-most-water) |
+<!---LeetCode Topics End-->
