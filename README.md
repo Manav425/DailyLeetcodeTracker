@@ -84,4 +84,12 @@ Manav Batra
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Manav425/DailyLeetcodeTracker/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manav425/DailyLeetcodeTracker/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manav425/DailyLeetcodeTracker/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
